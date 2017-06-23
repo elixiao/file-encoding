@@ -1,0 +1,17 @@
+{
+  "name": "file-encoding",
+  "version": "0.0.1",
+  "description": "detect encoding of a file",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elixiao/file-encoding"
+  },
+  "author": "elixiao",
+  "license": "MIT",
+  "dependencies": {
+    "first-chunk": "*",
+    "iconv-lite": "^0.4.18",
+    "jschardet": "^1.4.2"
+  }
+}
